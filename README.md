@@ -1,6 +1,6 @@
 # 🎓 Student Management System
 
-### 🌐 [Live Demo](https://student-management-app-2026.netlify.app/)
+### 🌐 [Live Demo](https://student-management-system-inky-ten.vercel.app/)
 
 A full-stack **Student Management System** built with **Python and Django** for managing student records through a clean web interface.
 
