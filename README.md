@@ -12,7 +12,7 @@ The application provides authentication, CRUD operations, search, sorting, pagin
 
 ### 🔐 Authentication
 
-* User Signup
+* User Signup...
 * User Login
 * User Logout
 * Authentication-protected pages
